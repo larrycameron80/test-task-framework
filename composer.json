@@ -1,0 +1,10 @@
+{
+  "name": "paxful/mvc",
+  "description": "Test MVC",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "require": {
+  },
+  "scripts": {
+  }
+}
